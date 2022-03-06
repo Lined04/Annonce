@@ -1,0 +1,7 @@
+---
+name: annonce
+version: 0.0.1
+main: Lined\annonce\Main
+api: 4.2.0
+src-namespace-prefix: Lined\annonce
+...
